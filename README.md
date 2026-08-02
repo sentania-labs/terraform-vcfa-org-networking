@@ -22,7 +22,7 @@ This module avoids that by having `vcfa_org_regional_networking` read its `org_i
 
 | Name | Version |
 |------|---------|
-| <a name="provider_vcfa"></a> [vcfa](#provider\_vcfa) | 1.2.0 |
+| <a name="provider_vcfa"></a> [vcfa](#provider\_vcfa) | >= 1.0.0 |
 
 ## Modules
 
